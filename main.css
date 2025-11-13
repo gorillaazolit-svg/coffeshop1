@@ -116,7 +116,7 @@ header{
 
 /* Секция ourBest */
 
-.ourBest{
+.ourbest{
     background: url("./img/ourbest.jpg");
     background-position: center;
     background-size: cover;
@@ -173,6 +173,7 @@ header{
 .nav a:nth-child(2){
     margin-left: 0;
 }
+
 
 
 
