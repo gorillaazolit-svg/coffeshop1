@@ -26,7 +26,7 @@ body{
 
 /* Шапка сайта */
 header{
-    background: url("img/headerBg.jpg");
+    background: url("./img/headerbg.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -173,4 +173,5 @@ header{
 .nav a:nth-child(2){
     margin-left: 0;
 }
+
 
